@@ -1,0 +1,63 @@
+{
+  "fixture": "private-regression (not distributed)",
+  "bytes": 1755231,
+  "topLevel": 13780,
+  "stats": {
+    "records": 22389,
+    "rendered": 21373,
+    "skipped": 46,
+    "approximated": 3097
+  },
+  "types": {
+    "1": 15639,
+    "2": 956,
+    "3": 221,
+    "4": 2618,
+    "6": 1519,
+    "7": 3,
+    "8": 7,
+    "9": 428,
+    "14": 852,
+    "18": 28,
+    "19": 118
+  },
+  "layers": 95,
+  "symbols": 44,
+  "issues": [
+    {
+      "message": "Hatch/fill styles reduced to outlines",
+      "count": 42
+    },
+    {
+      "message": "Text uses substituted fonts and approximate alignment",
+      "count": 428
+    },
+    {
+      "message": "Variable-width/curved outlines approximated by straight vertices",
+      "count": 2624
+    },
+    {
+      "message": "Unsupported object type 8",
+      "count": 7
+    },
+    {
+      "message": "Elliptical arcs omitted (type 18)",
+      "count": 28
+    },
+    {
+      "message": "Spline paths approximated by vertex polylines",
+      "count": 3
+    },
+    {
+      "message": "3D-oriented primitives omitted",
+      "count": 10
+    },
+    {
+      "message": "Type 6: Unrecognized vertex layout",
+      "count": 1
+    }
+  ],
+  "svgIdentical": true,
+  "geometryIdentical": true,
+  "svgSha256": "82f3ce4c1d3045e59dea1c434cc0aef953cf35498fd6a3269e0a9f46da010c51"
+}

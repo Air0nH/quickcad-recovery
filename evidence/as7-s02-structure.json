@@ -1,0 +1,38 @@
+{
+  "bytes": 29736,
+  "sha256": "28826c77c943bfd8b0d70644cad8e2687a33e47bf1e13e85a68bf8f60854fc0a",
+  "prefixHex": "0a000000000b0334313203372e30",
+  "sections": {
+    "Drawing Variables": 24316,
+    "Symbol Definitions": -1,
+    "Entity List": 29455
+  },
+  "header": {
+    "id": "412",
+    "release": "7.0"
+  },
+  "list": {
+    "name": "Main",
+    "count": 2,
+    "start": 29480,
+    "records": [
+      {
+        "index": 0,
+        "offset": 29480,
+        "body": 29488,
+        "type": 9,
+        "length": 104,
+        "end": 29592
+      },
+      {
+        "index": 1,
+        "offset": 29592,
+        "body": 29600,
+        "type": 6,
+        "length": 102,
+        "end": 29702
+      }
+    ],
+    "end": 29702
+  }
+}

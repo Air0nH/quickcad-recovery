@@ -1,0 +1,92 @@
+[
+  {
+    "name": "AS1-S01.SKD",
+    "sha": "f4711cd0cf793f6a4c8e2a13908b595adc1aacc1",
+    "size": 3314,
+    "sha256": "0a31f8b925785ad1002035bdbeffd5f9f222b63416354ef95fb1d6cbfa8cabda"
+  },
+  {
+    "name": "AS1-S02.SKD",
+    "sha": "965c7bfc3f6f1bd3c3969f90291b7e3909ca714c",
+    "size": 3656,
+    "sha256": "739f897f083ae3353728c324b6cb0a256290e15f9c2a2ffcce09479a6cdcfab6"
+  },
+  {
+    "name": "AS10-s01.SKF",
+    "sha": "bf99acceb2ebf48f1f57f7c7d9e5d118a25ceac2",
+    "size": 44036,
+    "sha256": "76d28d1fa60f86ce5e8b953661ca66fd79accbdc073cf2f780fe8257ff712883"
+  },
+  {
+    "name": "AS10-s02.SKF",
+    "sha": "5a9f215c11ad8d23150b9573c363c895f9c8f553",
+    "size": 44278,
+    "sha256": "d2d365bb27d989d532aae79b260754316cd5d692f0026015353ae965df869473"
+  },
+  {
+    "name": "AS2-S01.SKD",
+    "sha": "a121205e0e13000022f4361d80b2a7ebc6854c41",
+    "size": 5380,
+    "sha256": "eca969cd33e8bb16cd5fc62439faefce0170c885f87737f7e94b66d30829166b"
+  },
+  {
+    "name": "AS2-S02.SKD",
+    "sha": "025a9b9a57603f2c3cde85ea49351fd69daa66b2",
+    "size": 5959,
+    "sha256": "2584b5269ba0833323211b3d3b6c5da170fe8d959e145a4c7323a67b6f585874"
+  },
+  {
+    "name": "AS7-s01.SKF",
+    "sha": "bb2e757557f1aee95ca042f97c2f99f53066997f",
+    "size": 5310,
+    "sha256": "e1819cd1e90fa06e7d3127b7bbf8643fba3f062e5d301b0aafe377846f27ed3b"
+  },
+  {
+    "name": "AS7-s02.SKF",
+    "sha": "723147af4b69a59c3ca6ba58b3ff33a22256e276",
+    "size": 29736,
+    "sha256": "28826c77c943bfd8b0d70644cad8e2687a33e47bf1e13e85a68bf8f60854fc0a"
+  },
+  {
+    "name": "ASv5-s01.SKF",
+    "sha": "7470e082019cca0b8b7e4f785f408165e07d8ce1",
+    "size": 4690,
+    "sha256": "83f66d0dabb4b2f78e40fa7c268514cb0c1fcc28f82ff1a90e025505e5cb9939"
+  },
+  {
+    "name": "ASv5-s02.SKF",
+    "sha": "8729af4275ce0596ad55c10c90e3b7c7e3e9b8bb",
+    "size": 29316,
+    "sha256": "e32cbc56e9a7636a7cf93e451ee66647ea67adc6ad2daa1b57c3c4d57bdab264"
+  },
+  {
+    "name": "ASv6-s01.SKF",
+    "sha": "b12a1576d677de8872981572cea28da4fe56ad75",
+    "size": 4840,
+    "sha256": "0f70e921e729cb820be12f301a97bde1aa55291225f7779bc2ca597b3c8ed4ac"
+  },
+  {
+    "name": "ASv6-s02.SKF",
+    "sha": "bca39ed015fbb597ac32799c8ef56e1600f4a874",
+    "size": 29466,
+    "sha256": "69bff4350eac447a9e7e43583df6ee15f28bada033781484a6e78e0974559f3b"
+  },
+  {
+    "name": "AutoSketch8-s01.SKF",
+    "sha": "36c4495be0078e7dbdafb06d4f69cb8fc49c31cf",
+    "size": 29613,
+    "sha256": "ab5ee2c2e8a03437eb80752e612df50ee2c1336b9aac74d7ddcebab018c4cd71"
+  },
+  {
+    "name": "AutoSketch9-s01.SKF",
+    "sha": "cb597a837194ef1d97a501007166e4411c151236",
+    "size": 29613,
+    "sha256": "fc0a161b14d44ffeba299c319357ef4d95117ac8d9b808a5e020b5bc269e0c16"
+  },
+  {
+    "name": "TEMPLATE.SKD",
+    "sha": "22356e6fb2ac733608c3f89e8219e077a6ee80af",
+    "size": 4791,
+    "sha256": "780b2bb8be6aa47657a6a3617726f8d3ac54c3e0557fe6ab24b620b3d23c2e6f"
+  }
+]

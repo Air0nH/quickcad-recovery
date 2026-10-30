@@ -1,0 +1,11 @@
+local-samples/
+private-fixtures/
+*.cad
+*.CAD
+*.skf
+*.SKF
+*.skd
+*.SKD
+node_modules/
+test-results/
+__pycache__/

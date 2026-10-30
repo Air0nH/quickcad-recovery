@@ -1,0 +1,96 @@
+[
+  {
+    "name": "AS1-S01.SKD",
+    "status": "rejected",
+    "error": "Unsupported header. This converter supports the inspected QuickCAD 7.0 / 412 format."
+  },
+  {
+    "name": "AS1-S02.SKD",
+    "status": "rejected",
+    "error": "Unsupported header. This converter supports the inspected QuickCAD 7.0 / 412 format."
+  },
+  {
+    "name": "AS10-s01.SKF",
+    "status": "rejected",
+    "error": "Unsupported header. This converter supports the inspected QuickCAD 7.0 / 412 format."
+  },
+  {
+    "name": "AS10-s02.SKF",
+    "status": "rejected",
+    "error": "Unsupported header. This converter supports the inspected QuickCAD 7.0 / 412 format."
+  },
+  {
+    "name": "AS2-S01.SKD",
+    "status": "rejected",
+    "error": "Unsupported header. This converter supports the inspected QuickCAD 7.0 / 412 format."
+  },
+  {
+    "name": "AS2-S02.SKD",
+    "status": "rejected",
+    "error": "Unsupported header. This converter supports the inspected QuickCAD 7.0 / 412 format."
+  },
+  {
+    "name": "AS7-s01.SKF",
+    "status": "empty",
+    "topLevel": 0,
+    "stats": {
+      "records": 0,
+      "rendered": 0,
+      "skipped": 0,
+      "approximated": 0
+    },
+    "issues": []
+  },
+  {
+    "name": "AS7-s02.SKF",
+    "status": "decoded",
+    "topLevel": 2,
+    "stats": {
+      "records": 2,
+      "rendered": 2,
+      "skipped": 0,
+      "approximated": 1
+    },
+    "issues": [
+      {
+        "message": "Text uses substituted fonts and approximate alignment",
+        "count": 1
+      }
+    ]
+  },
+  {
+    "name": "ASv5-s01.SKF",
+    "status": "rejected",
+    "error": "Unsupported header. This converter supports the inspected QuickCAD 7.0 / 412 format."
+  },
+  {
+    "name": "ASv5-s02.SKF",
+    "status": "rejected",
+    "error": "Unsupported header. This converter supports the inspected QuickCAD 7.0 / 412 format."
+  },
+  {
+    "name": "ASv6-s01.SKF",
+    "status": "rejected",
+    "error": "Unsupported header. This converter supports the inspected QuickCAD 7.0 / 412 format."
+  },
+  {
+    "name": "ASv6-s02.SKF",
+    "status": "rejected",
+    "error": "Unsupported header. This converter supports the inspected QuickCAD 7.0 / 412 format."
+  },
+  {
+    "name": "AutoSketch8-s01.SKF",
+    "status": "rejected",
+    "error": "Unsupported header. This converter supports the inspected QuickCAD 7.0 / 412 format."
+  },
+  {
+    "name": "AutoSketch9-s01.SKF",
+    "status": "rejected",
+    "error": "Unsupported header. This converter supports the inspected QuickCAD 7.0 / 412 format."
+  },
+  {
+    "name": "TEMPLATE.SKD",
+    "status": "rejected",
+    "error": "Unsupported header. This converter supports the inspected QuickCAD 7.0 / 412 format."
+  }
+]
